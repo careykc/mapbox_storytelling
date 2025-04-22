@@ -1,7 +1,7 @@
 var config = {
-    style: 'mapbox://styles/burgerjh/cm98v4e0y001c01qn7swuc8m0',
+    style: 'mapbox://styles/careykc452/cm9svedvq00ua01s629pi7xa4',
     // leave commented to use Mapbox Standard Style
-    accessToken: 'pk.eyJ1IjoiYnVyZ2VyamgiLCJhIjoiY20yc3IyZXozMDBqdTJ2b3BpY3M3aWNqcCJ9.BRJ_B6H5_MYZ7Q_PBxcaQg',
+    accessToken: 'pk.eyJ1IjoiYnVyZ2VyamgiLCJhIjoiY20yc3IyZXozMDBqdTJ2b3pk.eyJ1IjoiY2FyZXlrYzQ1MiIsImEiOiJjbTlzdTJtZnMwNGdrMnFvdGZ4d2Ewb21lIn0.fPxTbd8JwrIarsrJLG3gFgBpY3M3aWNqcCJ9.BRJ_B6H5_MYZ7Q_PBxcaQg',
     showMarkers: false,
     markerColor: '#3FB1CE',
     //projection: 'equirectangular',
@@ -16,8 +16,8 @@ var config = {
     use3dTerrain: false, //set true for enabling 3D maps.
     auto: false,
     title: 'Color Purple Essay 2',
-    subtitle: 'Spatial Journeys across the South 2',
-    byline: 'Joost',
+    subtitle: 'New subtitle',
+    byline: 'Kyle',
     footer: 'Source: source citations, etc. <br> Created using <a href="https://github.com/mapbox/storytelling" target="_blank">Mapbox Storytelling</a> template.',
     chapters: [
         {
